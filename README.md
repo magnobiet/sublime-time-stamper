@@ -5,11 +5,26 @@ Useful to check the file version on servers with cache.
 
 ## Installation
 
-TODO: Describe the installation process
+**Without Git:** Download the latest source from [GitHub](https://github.com/magnobiet/sublime-time-stamper) and copy the whole directory into the Packages directory.
 
-## Usage
+**With Git:** Clone the repository in your Sublime Text 2 Packages directory, located somewhere in user's "Home" directory:
 
-TODO: Write usage instructions
+	git clone git://github.com/magnobiet/sublime-time-stamper.git
+
+
+The "Packages" packages directory is located at:
+
+* OSX:
+
+	~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+
+* Linux:
+
+	~/.Sublime\ Text\ 2/Packages/
+
+* Windows:
+
+	%APPDATA%/Sublime Text 2/Packages/
 
 ## Contributing
 
@@ -21,12 +36,8 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
+Check [HISTORY.md](https://github.com/magnobiet/sublime-time-stamper/blob/master/HISTORY.md)
 
 ## License
 
-TODO: Write license
+[MIT License](http://magno.mit-license.org/)
