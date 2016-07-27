@@ -1,30 +1,20 @@
-# Time Stamper for Sublime Text 2
+# TimeStamper for Sublime Text 3
 
-This plugin includes in the header file the date and time it was saved.
-Useful to check the file version on servers with cache.
+This plugin add timestamp to file header
 
 ## Installation
 
-**Without Git:** Download the latest source from [GitHub](https://github.com/magnobiet/sublime-time-stamper) and copy the whole directory into the Packages directory.
+### Without Git
 
-**With Git:** Clone the repository in your Sublime Text 2 Packages directory, located somewhere in user's "Home" directory:
+Download the latest source from [GitHub](https://github.com/magnobiet/sublime-time-stamper) and copy the whole directory into the packages directory.
 
-	git clone git://github.com/magnobiet/sublime-time-stamper.git
+### With Git
 
+Clone the repository in your Sublime Text 3 Packages directory, located somewhere in user's "Home" directory:
 
-The "Packages" packages directory is located at:
-
-* OSX:
-
-	~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-
-* Linux:
-
-	~/.Sublime\ Text\ 2/Packages/
-
-* Windows:
-
-	%APPDATA%/Sublime Text 2/Packages/
+```bash
+git clone git://github.com/magnobiet/sublime-time-stamper.git
+```
 
 ## Contributing
 
@@ -33,10 +23,6 @@ The "Packages" packages directory is located at:
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-
-## History
-
-Check [HISTORY.md](https://github.com/magnobiet/sublime-time-stamper/blob/master/HISTORY.md)
 
 ## License
 
